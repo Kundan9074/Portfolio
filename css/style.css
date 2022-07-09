@@ -489,17 +489,12 @@ footer .copyright{
         margin-bottom:0.5 ;
     
     }
-    header{
-        background:black;
-        height:810px;
-        
-        
-    }
+    
 }
 body, html {
     overflow-x: hidden; 
 }
-@media (max-width:576px) {
+@media (max-width:742px) {
 
     .hero{
         padding-top: 5rem;
@@ -516,7 +511,7 @@ body, html {
         padding:0 1rem;
     }
     header {
-        height: 620px;
+        height: 675px;
     }
     .about-inner-wrap{
         flex-direction: column;
@@ -562,7 +557,7 @@ body, html {
     }
     header{
         background:black;
-        height:810px;
+        height:none;
         
         
     }
